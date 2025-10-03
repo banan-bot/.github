@@ -8,6 +8,7 @@
 
 # credits to:
 [![GitHub](https://img.shields.io/badge/domos000-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domos000)
+[![GitHub](https://img.shields.io/badge/JustCubeLol-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustCubeLol)
 
 # for the readme design idea, special thanks to the team of:
 [![GitHub](https://img.shields.io/badge/cometclient-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cometclient)
