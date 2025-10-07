@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/banan-bot/assets/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%; height:45vh;">
+  <img src="https://github.com/banan-bot/assets/blob/main/banner.jpg?raw=true" alt="Banner" style="width:100%; height:100%;">
 </p>
 
 ***
 <h1 align="center";>banan - a discord bot</h1>
-<b>nano banana image gen model inside discord.</b>
+<b>stable diffusion image gen inside discord.</b>
 
 # credits to:
 [![GitHub](https://img.shields.io/badge/domos000-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domos000)
